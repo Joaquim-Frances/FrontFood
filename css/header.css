@@ -1,0 +1,30 @@
+.businessName{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(199, 150, 58);
+    margin: 20px;
+}
+
+#businessLogo{
+    width: 100px;
+    height: auto;
+}
+
+.infoText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: lighter;
+    color: rgb(180, 180, 180);
+    margin: 10px;
+
+}
+    
