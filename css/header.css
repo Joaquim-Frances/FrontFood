@@ -1,12 +1,12 @@
 .businessName{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: start;
+    align-items: flex-start;
     font-family: Helvetica;
     font-size: 25px;
     font-weight: bold;
-    color: rgb(199, 150, 58);
+    color: rgb(0, 0, 0);
     margin: 20px;
 }
 
@@ -18,13 +18,13 @@
 .infoText{
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: start;
+    align-items: flex-start;
     font-family: Helvetica;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: lighter;
-    color: rgb(180, 180, 180);
-    margin: 10px;
+    color:  rgb(0, 0, 0);
+    margin: 20px;
 
 }
     

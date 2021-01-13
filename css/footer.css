@@ -1,6 +1,7 @@
 .footer{
     position: sticky;
     bottom: 0;
+    
 }
 .submit{
     display: flex;
@@ -21,7 +22,7 @@
 .icons{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
     align-items: center;
     background-color: white;
     height: 90px;
@@ -35,4 +36,8 @@
 #icons{
     width: 25px;
     height: auto;
+}
+
+#spaceIcon{
+    width: 20px;
 }

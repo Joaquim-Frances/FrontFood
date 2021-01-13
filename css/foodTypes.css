@@ -4,12 +4,13 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    height: 200px;
+    height: 170px;
     overflow: auto;
     position: sticky;
     top: 0;
     z-index: 1;
-    box-shadow: 0 15px 15px 0 rgb(209, 209, 209);
+   
+    
 }
 .class01{
     display: flex;
@@ -17,9 +18,11 @@
     justify-content: center;
     align-items: center;
     margin: 25px;
-    height: 120px;
-    min-width: 120px;
-    box-shadow: 5px 5px 10px 10px rgb(209, 209, 209);
+    height: 110px;
+    min-width: 110px;
+    box-shadow: 2px 2px 20px 10px rgb(228, 228, 228);
     border-radius: 10px;
+    font-family: Helvetica;
+    color: grey;
     
 }
