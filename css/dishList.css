@@ -8,18 +8,19 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    width: 100%;
 }
 
 .dish01{
     display: flex;
     flex-direction: row;
-    padding: 10px;
-    max-width: 100%;
-    margin: 20px;
+    padding: 5px;
+    max-width: 99%;
+    margin: 5px;
     
 }
 .dishPhoto{
-    padding: 0 15px 0 15px;
+    padding: 0 10px 0 10px;
 }
 .dishesPhotos{
     border-radius: 7px;
