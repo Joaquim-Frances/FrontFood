@@ -1,0 +1,54 @@
+checkout{
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    font-family: Helvetica;
+    background-color: rgba(40, 40, 40, 0.5);
+    z-index: 2;
+}
+
+.checkoutUp{
+    position: fixed;
+    bottom: 0;
+    height: 250px;
+    background-color: orange;
+    width: 100%;
+    border-radius: 25px 25px 0 0 ;
+    box-shadow: 0 5px 15px 15px rgb(204, 204, 204);
+}
+.name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    background-color: white;
+
+
+}
+#clientName{
+    margin: 20px;
+    font-size: 25px;
+}
+
+
+
+.order{
+    display: flex;
+    justify-content: center;
+    align-items: flex-center;
+    
+    
+}
+.orderBtn{
+    background-color: white;
+    color: black;
+    width: 70%;
+    border-radius: 7px;
+    font-size: 15px;
+    padding: 10px;
+    border: none;
+    
+}

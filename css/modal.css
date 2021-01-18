@@ -1,5 +1,5 @@
 .modal{
-    display: flex;
+    display: none;
     position: fixed;
     top: 0;
     left: 0;
@@ -22,6 +22,15 @@
     position: relative;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: cornsilk;
-    width: 70%;
+    width: 80%;
+    border-radius: 15px;
+    
+}
+
+.dish01{
+    margin: 20px;
+    
 }
